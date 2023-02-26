@@ -1,2 +1,2 @@
 # Portfolioo
-Pagina sobre aminha informação.
+Pagina sobre a minha informação.
